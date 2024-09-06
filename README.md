@@ -1,6 +1,5 @@
 <h1>Loja de Carros</h1>
 <br>
-<br>
 <h2>Projeto desenvolvido durante as aulas do DevClub, do Professor Rodolfo Mori. Foram utilizadas as seguintes tecnologias:</h2>
 <br>
 <li>HTML</li>
